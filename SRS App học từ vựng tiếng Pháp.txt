@@ -1,0 +1,215 @@
+﻿Software Requirement Specification (SRS)
+App học từ vựng tiếng Pháp
+ 
+I. INTRODUCTION
+Mục đích của tài liệu (Purpose of this document) 
+Tài liệu SRS “App học từ vựng tiếng Pháp” có mục đích diễn giải cụ thể, chi tiết và dễ hiểu những ý tưởng của Hiếu để Vũ có thể hiểu được và thực hiện được.
+Phạm vi của tài liệu (Scope of this document)
+Tổng quan (Overview)
+ 
+Giới thiệu chung (General description) tạm thời bỏ trống
+- Mục tiêu của người dùng
+- Đặc điểm của người dùng
+- Tầm quan trọng của ứng dụng / tính năng 
+
+
+________________
+II. YÊU CẦU VỀ CHỨC NĂNG (FUNCTIONAL REQUIREMENTS)
+2.1. SƠ ĐỒ CHỨC NĂNG TỔNG THỂ:
+Đáng ra vẽ bằng draw.io, xin lỗi vì chuồng gà, tôi sẽ vẽ lại vào tối nay. Tôi còn chưa biết mình vẽ đúng không.
+  
+
+2.2. CÁC CẤP ĐỘ KHÓ VỀ VIỆC NHẬP TỪ CẦN GÕ VÀ SỐ CHỮ CÁI TRONG TỪ CẦN GÕ:
+Đối với một số phần học từ vựng và bài tập, người dùng có thể lựa chọn giữa các độ khó hiển thị khác nhau. Độ khó 1 tương ứng với mức học dễ / cơ bản nhất - có thể coi như chưa biết gì và chỉ học bằng việc gõ lại từ, độ khó 2 là mức độ bắt đầu yêu cầu khả năng ghi nhớ - vận dụng, trong khi độ khó 3 người dùng phải thành thạo và có khả năng sử dụng từ ngữ chính xác. 
+Độ khó mặc định còn thay đổi dựa theo trình độ của bài học, tức là đối với các bài cơ bản, người dùng tự do lựa chọn độ khó của việc nhập từ. Khi bài tập tăng dần độ khó theo thời gian, độ khó mặc định sẽ tăng lên theo và người dùng sẽ không thể chọn được độ khó dễ hơn độ khó mặc định. 
+- Độ khó 1: Toàn bộ chữ cái của từ vựng sẽ được hiển thị trên màn hình. Mỗi ký tự tương ứng với 1 ô. 
+- Độ khó 2: Số lượng chữ cái trong một từ vựng sẽ được hiển thị bằng số lượng các dấu gạch dưới “_” – hay mỗi dấu gạch dưới “_” tượng trưng cho một chữ cái trong từ. Giữa các từ sẽ được phân cách với nhau bởi khoảng trắng “ “ – hay phím space.
+- Độ khó 3: Không hiển thị số lượng chữ cái trong một từ, thay vào đó chỉ hiển thị một khoảng để điền có dạng “_______”.
+Ví dụ minh họa cho các độ khó về mặt gõ từ:
+- Độ khó 1:
+VD1: Từ cần gõ là từ “chat”, màn hình sẽ hiển thị: chat (4 ô, tương ứng với các chữ cái c, h, a, t).
+VD2: Từ cần gõ là từ “le chat”, màn hình sẽ hiển thị: le chat (7 ô, tương ứng với các chữ cái l, e, khoảng trắng, c, h, a, t). 
+VD3: Từ cần gõ là từ “l’oiseau”, màn hình sẽ hiển thị: l’oiseau (trong tiếng Pháp có các ký tự dấu phẩy trên, ta coi nó như một ô. Vậy ở đây ta có 8 ô, tương ứng với l, ‘, o, i, s, e, a, u.).
+Hình ảnh minh họa:
+  
+
+- Độ khó 2:
+VD 1: Từ cần gõ là “la souris”, màn hình sẽ hiển thị: _ _  _ _ _ _ _ _ (tổng 9 ô, 2 dấu gạch dưới đầu tiên tương ứng với “la”, sau đó là khoảng trắng, cuối cùng là 6 dấu “_” tương ứng với “souris”).
+VD 2: Từ cần gõ là “l’éléphant”, màn hình sẽ hiển thị _ _ _ _ _ _ _ _ _ _ (tổng 9 ô, đầu tiên là “l”, dấu phẩy trên, rồi “éléphant”, mỗi chữ cái hoặc dấu tương ứng với 1 dấu gạch dưới “_”).
+- Độ khó 3:
+VD 1: Từ cần gõ là “le sel”, màn hình sẽ hiển thị _______ (hiện tại tôi đang để 7 dấu gạch dưới, sau này có thể điều chỉnh tùy thuộc vào phần giao diện và feedback của người dùng).
+VD 2: Từ cần gõ là “crocodile”, màn hình vẫn sẽ hiển thị _______.
+
+
+2.3. CƠ CHẾ NHẬP TỪ CẦN GÕ: 
+Người dùng sẽ gõ đúng từ (hoặc cụm từ, câu, … tùy thuộc nội dung học) hiển thị trên màn hình (tham khảo phương pháp: https://en.wikipedia.org/wiki/Speech_shadowing) :
+- Ở độ khó 1, từ xuất hiện sẵn trên màn hình, có màu xám nhạt (đối với nền giao diện trắng, dark mode có thể cân nhắc màu khác - xem tại phần Yêu cầu về giao diện). Khi người dùng gõ đúng chữ cái nào trong từ (không tính khoảng trắng “ “) , chữ cái ấy sẽ chuyển sang màu xanh lá cây nhạt (xanh nõn chuối). Nếu người dùng gõ sai chữ cái nào, chữ cái bị gõ sai sẽ hiển thị màu đỏ, từ sẽ nháy, từ cần gõ sẽ chuyển lại toàn bộ về màu xám (tất cả những ký tự đã gõ đúng và đã chuyển sang màu xanh nõn chuối thì giờ đều chuyển lại về màu xám như ban đầu từ được hiển thị trên màn hình mà người dùng chưa gõ). Khi người dùng gõ đúng hết từ, tự động chuyển sang từ tiếp theo cho tới khi hết từ vựng cần học / khi hết bài tập. 
+- VD: Từ “bien”, từ “bien” toàn bộ có màu xám
++ người dùng gõ đúng chữ “b” - chữ “b” sẽ chuyển từ màu xám sang màu xanh nõn chuối
++ người dùng tiếp tục gõ, gõ đúng chữ “i”, chữ “i” chuyển từ màu xám sang màu xanh nõn chuối. Lúc này ta có chữ “bi” màu xanh nõn chuối và chữ “en” vẫn giữ nguyên màu xám.
++ người dùng tiếp tục gõ, do trượt tay nên người dùng gõ nhầm chữ “r” thay vì chữ “e”, lúc này chữ “e” sẽ chuyển từ màu xám thành màu đỏ, từ “bien” sẽ nháy, rồi sau đó từ “bien” sẽ chuyển toàn bộ lại về màu xám như ban đầu và người dùng phải nhập lại từ đầu.
+Minh họa: https://qwerty.kaiyi.cool/ - làm nháy tương tự như vậy. Nếu không làm được có thể tạm cân nhắc. 
+- Ở độ khó 2, ký tự nào được gõ đúng thì dấu gạch dưới “_” sẽ chuyển sang ký tự đó và hiển thị màu xanh nõn chuối. Nếu người dùng gõ sai, từ sẽ đặt lại giống với ban đầu tức là không có ký tự nào mà chỉ là các dấu gạch dưới “_”.
+- VD: từ “cochon” - hiển thị trên màn hình tương ứng là _ _ _ _ _ _ . Người dùng nhập đúng chữ “c” đầu tiên, màn hình sẽ hiển thị là c _ _ _ _ _ với chữ “c” màu xanh nõn chuối, các dấu gạch dưới màu xám. Người dùng tiếp tục gõ đúng chữ “o”, lúc này màn hình hiển thị c o _ _ _ _ , với chữ “c” và “o” màu xanh là cây. Người dùng nhập sai ký tự thứ ba, màn hình sẽ hiển thị dấu gạch dưới tương ứng chuyển đỏ: c o _ _ _ _ , nháy, rồi sau đó đặt lại về là các dấu gạch dưới như ban đầu: _ _ _ _ _ _ . 
+- Ở độ khó 3, tôi đang cân nhắc các phương án tính năng. Tôi sẽ giải thích trước các phương án và lựa chọn. 
+1. Người dùng tự gõ toàn bộ từ, sau đó bấm nút dạng tương tự như nộp (gửi / submit / … - tham khảo cơ chế này của Duolingo). Nếu nhập đúng thì toàn bộ từ hiển thị xanh, còn nhập sai thì toàn bộ từ nhập sai hiển thị màu đỏ. 
+- Ưu điểm: 
++ Người học phải thực sự nhớ và hiểu đúng nghĩa cũng như cách sử dụng của từ để dùng đúng. Khi nhập được đúng cũng có nghĩa là người học đã thành công làm chủ từ vựng đó. 
+- Nhược điểm: 
++ Phải có thêm nút nộp (submit hoặc tên tương tự).
++ Người dùng đã quen với cơ chế ở độ khó 1 và 2, cụ thể là cơ chế gõ đúng sẽ hiển thị màu xanh, gõ sai chuyển đỏ và phải gõ lại từ đầu - do đó khi chuyển sang cơ chế mới có thể chưa quen và ảnh hưởng đến trải nghiệm. 
+=> Hướng giải quyết: 
++ Thêm nút gửi (dạng như để submit). Nếu sai thì người dùng phải nhập lại.
++ Sẽ có trường hợp tôi tính toán rằng thay vì chỉ học 1 từ 1 (tức là toàn bộ màn hình chỉ có 1 từ) thì sẽ có cả bài tập chẳng hạn như điền 5 từ vào 5 ô trống, vậy thì khi ấy nếu bắt người dùng nhập lại mãi sẽ rất là chán. Do đó, có thể thay thế việc sau khi người dùng bấm submit, kết quả sai và người dùng phải gõ lại thành -> sau khi bấm submit, kết quả nào đúng thì hiển thị toàn bộ từ đó ra thành màu xanh nõn chuối, từ nào sai thì hiển thị toàn bộ từ đúng (mà đáng ra phải gõ đúng nhưng đã gõ sai) ra thành màu đỏ.
+Ý kiến cá nhân: Tôi thích cơ chế này ở chỗ nó yêu cầu người học phải hoàn toàn nắm được từ vựng, cũng tức là nếu người học làm chủ được từ vựng và vượt qua độ khó 3 thì app của chúng ta đã thực sự THÀNH CÔNG. 
+2. Người dùng gõ đúng chữ cái nào, chữ cái ấy sẽ chuyển sang màu xanh, gõ sai thì màn hình chuyển lại về _______ . Cơ chế này cơ bản hoạt động giống như ở độ khó 1 và 2. 
+VD từ “citron”, khi người dùng nhập đúng lần lượt các chữ “cit”, màn hình sẽ hiển thị: ___cit____ (chữ cái sẽ bắt đầu hiển thị sau dấu gạch dưới thứ 3 và trước dấu gạch dưới thứ 4. Lý do? Tôi thấy nó đẹp thôi chứ chả có lý do gì. Nếu để 6 ký tự gạch dưới thì sẽ dễ cho việc chia làm 3 dấu trước và 3 dấu sau, chữ cái sẽ hiện lên ở chính giữa, tuy nhiên khi ấy thì nó không tạo cảm giác như thế là vẫn còn chữ ở phía sau, lôi kéo người dùng nhập tiếp chữ xD). Nhập sai chữ thứ 4 thì toàn bộ chữ đã nhập và chữ mới vừa được nhập sẽ chuyển đỏ, nháy, rồi trở lại về _______ . Minh họa: nhập sai chữ thứ 4 là “e” thay vì chữ đúng là “r”: ___cite____ , nháy, chuyển về _______ .
+Tôi không thích cái này vì người dùng sẽ dùng kiểu đoán mò từng chữ một, chẳng may ăn may thì vẫn đúng -> không thực sự hiểu.  
+
+
+2.4. NÚT SUBMIT
+Nếu ông thấy phương án làm nút nhập submit OK, thì thiết kế 1 nút submit sao cho người dùng bấm vào thì sẽ kiểm tra đối chiếu với đáp án.
++ Sẽ có trường hợp tôi tính toán rằng thay vì chỉ học 1 từ 1 (tức là toàn bộ màn hình chỉ có 1 từ) thì sẽ có cả bài tập chẳng hạn như điền 5 từ vào 5 ô trống, vậy thì khi ấy nếu bắt người dùng nhập lại mãi sẽ rất là chán. Do đó, có thể thay thế việc sau khi người dùng bấm submit, kết quả sai và người dùng phải gõ lại thành -> sau khi bấm submit, kết quả nào đúng thì hiển thị toàn bộ từ đó ra thành màu xanh nõn chuối, từ nào sai thì hiển thị toàn bộ từ đúng (mà đáng ra phải gõ đúng nhưng đã gõ sai) ra thành màu đỏ (thể hiện là người dùng đã không gõ được từ đấy).
+
+
+
+
+2.5. NÚT HIỂN THỊ LỜI GIẢI 
+CẦN CÂN NHẮC VỀ TƯƠNG TÁC VỚI CƠ CHẾ SUBMIT Ở TRÊN
+- Đối với phần học từ vựng:
+Đối với độ khó 2 và 3, trong trường hợp người dùng không biết từ cần gõ là gì, bấm nút “Hiển thị lời giải” (hoặc Đáp án hay tương tự thế) thì từ cần gõ sẽ hiện ra và có màu đỏ (thể hiện là người dùng đã không gõ được từ ấy). 
+- Đối với phần bài học: tương tự cơ chế ở phần học từ vựng.
+- Đối với phần bài tập:  
+
+
+2.6. CƠ CHẾ QUA MÀN (~ level up)
+- Đối với phần học từ vựng:
+Đối với cơ chế Spaced Repetition:
++ Tôi thấy có 1 cơ chế khá hay là cơ chế biến mất - xuất hiện. Có một nhóm các từ VD dễ hiểu word = [play, game, card, boy]. Nhập đúng từ “play” thì từ này sẽ được xóa khỏi word, chuyển sang từ “game”. Từ “game” nhập sai thì sẽ chuyển sang từ “card”, từ “card” nhập sai thì chuyển sang từ “boy”, từ “boy” nhập đúng thì quay lại về từ nhập sai đầu tiên là “game”, cứ như vậy cho tới khi không còn từ nào.
+=> Yêu cầu người học nhồi thụ động tới khi nào thuộc từ thì thôi, cơ chế hoạt động là từ nào người dùng dễ nhớ thì nó nhanh được xóa (không phải nhập lại / gõ lại nữa), từ nào lâu nhớ thì nó cứ quay vòng cho tới khi nhớ thì thôi)
++ Cơ chế tiếp theo trong cơ chế Spaced Repetition là cơ chế tự động lặp lại (xem: https://en.wikipedia.org/wiki/Spaced_repetition). Sau các khoảng thời gian tuần tự (tương ứng lần lượt: sau 1 ngày, sau 2 ngày, sau 4 ngày, sau 7 ngày (1 tuần), sau 14 ngày (2 tuần), sau 1 tháng (30 ngày) …) từ vựng đã nhập đúng sẽ tự động quay lại trong nhóm từ vựng cần nhập. Nếu nhập đúng thì các khoảng thời gian sẽ tăng lên, nếu sai thì khoảng thời gian sẽ reset. VD: nhập đúng, sau 1 ngày từ hiển thị lại - tiếp tục nhập đúng, sau 2 ngày từ hiển thị lại - nhập sai -> reset -> sau 1 ngày từ hiển thị lại. Sau 30 ngày thì từ sẽ không còn tự động hiển thị lại nữa (coi như người dùng đã nắm vững nó rồi).  
+- Đối với phần bài học: chưa có ý tưởng cụ thể / gác lại.
+- Đối với phần bài tập: 
+Người dùng phải đạt mức 7/10 trở lên để qua bàn. Tôi sẽ thiết kế các bài tập dạng 10 câu (10 chỗ điền, …), làm đúng từ 7 (>=7) là qua bàn. 
+
+
+2.7. CƠ CHẾ BỎ QUA (Skip):
+Khi người dùng cảm thấy khó quá thì có thể bấm skip để bỏ qua, sẽ chuyển sang từ tiếp theo hoặc bài tập tiếp theo. Cân nhắc sự cần thiết của cơ chế này với các cơ chế như submit, hiển thị lời giải, chọn bài tập khác.
+Bởi thay vì bấm skip thì có thể bấm chọn bài khác chẳng hạn? Hoặc cứ nhập bừa đi nếu sai thì tự chuyển mà. #Cần trao đổi. 
+
+
+2.8. CƠ CHẾ LỰA CHỌN NHÓM TỪ VỰNG ĐỂ HỌC 
+- Hiện tại chỉ áp dụng đối với học từ vựng: 
+Không thể bắt người dùng nhồi 1 phát VD 3000 từ vựng và xoay tua được, bởi khi ấy việc nhớ là không khả thi, việc áp dụng xoay tua từ vựng cũng không khả thi -> cần chia nhỏ nhóm từ vựng thành các gói từ vựng.
+VD tầm 20 từ vựng tạo thành 1 gói (hay 1 level, 1 bài học). Hoặc tạo sẵn các gói từ vựng theo chủ đề: con vật, cây cối. Người dùng có thể tùy ý lựa chọn các gói này để học trong 1 menu. Khi chọn 1 bài học, giả dụ học hết 10 từ rồi -> chuyển sang phần lựa chọn như:
++ Nút: “Lựa chọn bài học”: Chuyển về menu lựa chọn bài học.
++ Nút: “Luyện tập lại”: reset bài học hiện tại và người học luyện tập lại bài đang học. 
++ Nút “Bài tiếp theo”: Chuyển sang bài tiếp theo. Nếu hết bài thì báo hết.
+Minh họa giống như chơi angry bird có 3 phím lúc bấm pause ấy. 
+THAM KHẢO: app “WordUp” của Geeks Ltd. Có cả bàn dùng cho microsoft. 
+
+
+2.9. CƠ CHẾ PHÁT ÂM
+Khi từ được hiển thị sẽ tự động phát âm mẫu. 
+Có nút bấm nếu người dùng muốn nghe lại phát âm. Trước mắt cứ áp dụng cho phần học từ vựng. 
+Tham khảo Qwerty Learner và WordUp. 
+
+
+2.10. CƠ CHẾ NHẬP KHO TỪ VỰNG
+Xây dựng các kho từ vựng, ở thời điểm hiện tại tôi sẽ chịu trách nhiệm về nội dung kho. Tôi từng xem xét cách dùng nhập từ 1 thư viện Python về ngôn ngữ, tuy nhiên quá trình test app lỏ mà tôi đã gửi ông qua Zalo cho thấy: 
+1. Nó hơi lỏ.
+2. Nó mất thời gian load hơn là nhập chết cứng vào app.
+Ta có thể xem cơ chế nhập từ thư viện đối với phần phát âm. Phiên âm quốc tế (IPA) tôi hiện chưa chắc chắn lắm, khả năng copy thủ công thì hơn. 
+Một nội dung từ vựng (tạm coi như 1 từ) sẽ bao gồm:
+- Từ để người dùng gõ
+- Phần phiên âm
+- Phần phát âm (bao gồm cơ chế khi chuyển sang từ nào thì từ đó tự động được phát âm + cơ chế có nút loa để người dùng bấm vào nghe phát âm): cân nhắc giọng nam / nữ / luân phiên.
+- Phần giải nghĩa, chú thích của từ: phần này phải thật sự chỉn chu và trau chuốt nên tôi sẽ trực tiếp phụ trách biên soạn phần nội dung này. Sau này có thể tính tới chuyện thuê thêm / collab với người có chuyên môn bên ngoài.
+Ở app lỏ tôi đơn giản là tạo list từ vựng VD word_list = [...]
+Ta có thể tạo và phân chia tạm thành một số nhóm từ. Tôi sẽ tạo nội dung để nhập vào kho từ vựng này.
+
+
+2.11. CƠ CHẾ TIẾN TRÌNH
+Cơ chế tiến trình giúp người học biết được rằng mình đã hoàn thành bao nhiêu % quá trình học. Bao gồm:
+- Cơ chế đo lường quá trình học: chẳng hạn như có một thanh đo quá trình (VD progress bar), thanh có màu xám, khi người học hoàn thành 1 từ trong bộ 10 từ vựng, thanh sẽ hiển thị 10%, 20%, … tương ứng. Số phần trăm hiển thị sẽ được chuyển sang màu xanh. 
+- Cơ chế thời gian: có rất nhiều chức năng, VD setup một lượng thời gian mà người dùng cần sử dụng để hoàn thành 1 bài học (cái này cũng xem xét để chia ra thành tùy chọn cài đặt (setting) VD bài học không đếm giờ - bài học có đếm giờ, đặt giờ đối với bài kiểm tra, …). 
+- Bên cạnh đo lường quá trình từng bài học, đo lường cả quá trình tổng tất cả các bài học. Tôi nghĩ cũng sử dụng dạng % hoàn thành.
+
+
+2.12. CƠ CHẾ THÀNH TỰU VÀ KHÍCH LỆ
+Thành tựu và khích lệ là những cơ chế rất tốt để thúc đẩy động lực học của người dùng.
+Chẳng hạn tôi thấy có thể copy phần thành tựu của Duolingo bằng việc Duolingo đặt ra 1 thanh điểm, ông hoàn thành các bài học thì nó sẽ cộng điểm vào thanh đó, tương ứng với các nấc theo khung tham chiếu châu Âu về ngôn ngữ (wiki: https://vi.wikipedia.org/wiki/Khung_tham_chi%E1%BA%BFu_tr%C3%ACnh_%C4%91%E1%BB%99_ng%C3%B4n_ng%E1%BB%AF_chung_c%E1%BB%A7a_Ch%C3%A2u_%C3%82u) Nó để các mức từ A1 A2 B1 B2 tới C1 và C2. Ta bắt chước vậy để khi người học hoàn thành các từ vựng nhất định sẽ thông báo là họ đã đạt trình độ nhất định.
+- Bổ sung: khung tham chiếu 6 bậc của Việt Nam chẳng hạn. 
+Popup hiện lên sau các bài học cũng là một cái cần cân nhắc:
+- Ưu điểm: khuyến khích người học
+- Nhược điểm: tạo cảm giác như là Duolingo vậy
+Có thể thử bằng các phương pháp khác như:
+- Hiển thị các ngôi sao sau mỗi bài học, VD được mức 70% trở lên thì được 1 sao, 80% trở lên thì 2 sao và 100% thì trọn 3 sao. Nếu được ít nhất 1 sao thì sẽ có đoạn âm thanh: tèn tén ten hay gì đó để nâng cao tinh thần (up mood). 
+- Ngược lại, khi người dùng đạt kết quả chưa tốt cũng cần nghĩ xem có thể động viên như thế nào. CHÚ Ý: nếu động viên mà nghe giả tạo hay “cringe” thì tôi nghĩ thà không nói gì còn hơn!
+Cơ chế phần thưởng: tôi có nói chuyện với ông anh, ông ấy bảo ông ấy sử dụng nhiều phần thưởng khác nhau đối với bọn chăm học chẳng hạn như chúng nó sẽ được giảm giá vào lần học sau chẳng hạn.
+
+
+2.13. CƠ CHẾ THU THẬP DỮ LIỆU
+Ở thời điểm hiện tại thì tôi chưa hình dung ra toàn bộ dữ liệu cần thu thập, tuy nhiên để phát triển ứng dụng thì việc thu thập là không thể thiếu. Các dữ liệu trước mắt cần thu thập (cũng chính là cái khi ta thử phần mềm ở nhóm khách hàng dùng thử) bao gồm:
+- Thời gian hoàn thành (tiến độ học tập)
+- Độ khó (tỷ lệ làm sai của người học)
+v..v..
+
+
+2.14. CƠ CHẾ BÁO LỖI
+Cơ chế này giúp người dùng thông báo cho chúng ta về lỗi phát sinh, ta có thể nhanh chóng fix.
+Có thể kèm thưởng cho người gửi bug VD miễn phí 1 gói ứng dụng nào đó.
+
+
+2.15. CƠ CHẾ MUA BÁN VÀ SỬ DỤNG ỨNG DỤNG
+Đây cũng là cơ chế cần tính toán trước, bởi nếu ta bán ứng dụng rộng rãi thì cần tính tới nhiều yếu tố, VD như:
+- Kênh bán: ta sẽ đóng gói và bán phần mềm đi như thế nào? Người dùng sẽ tải qua đâu / hay ta gửi phần mềm cho họ qua đâu?
++ Gửi cho người quen dùng thì dễ nhưng phải tính sao để người lạ sử dụng thuận tiện và trông chuyên nghiệp. Phần mềm xịn nhưng nhìn giao diện hay cách bán hàng lôi thôi sẽ làm người dùng cảm thấy phần mềm này cũng chỉ là loại xoàng xĩnh rẻ tiền.
+- Làm sao để ngăn họ không bán hay để nhiều người khác sử dụng phần mềm của ta mà không mua? 
++ Tôi đã từng nghĩ tới chẳng hạn như đăng ký bằng email, khi người ta đã bank tiền thì nhập email của người ta vào làm key, key ấy dùng để đăng nhập.
++ Teamviewer để cài trực tiếp vào máy. Ta có thể giữ password chỉ mình ta biết, khi cài vào máy khách thì nhập key. Cách này lỏ ở chỗ phải bảo khách cài các kiểu rất là lỏ: ai tin tưởng mà cho cài, rồi vấn đề về lowtech, … 
+Phần này vừa là tech vừa là business nên tôi sẽ vắt óc suy nghĩ. Ở các bản thử nghiệm thì chưa có cũng được, nhưng vẫn phải ưu tiên việc dễ làm sao cho người dùng có thể tiếp cận, tải và cài đặt. 
+Rồi thanh toán ra sao? Trước mắt bán người quen thì để họ bank trước vẫn OK, nhưng khách lạ thì phải tính tới cách thu tiền và giao ứng dụng cho họ. 
+
+
+HIỆN TẠI TÔI NGHĨ KHÔNG CẦN DÙNG HÌNH ẢNH MINH HỌA, bỏ qua luôn phần này và sẽ cân nhắc sau. 
+
+
+TÓM TẮT: thực chất cơ chế sẽ là kết hợp của Qwerty Learner và WordUp. Ông tham khảo 2 app để xem cơ chế hoạt động.
+________________
+III. YÊU CẦU VỀ GIAO DIỆN (INTERFACE REQUIREMENTS)
+3.1. NGÔN NGỮ: 
+Cân nhắc giữa tùy chọn ngôn ngữ - người dùng có thể chọn một trong các tùy chọn ngôn ngữ - hoặc mặc định chỉ sử dụng một (cần cân nhắc).
+1. Tiếng Pháp sử dụng để hiển thị nội dung (từ, cụm từ, câu, đoạn văn, văn bản, … đều viết bằng tiếng Pháp). Tiếng Việt sử dụng để chú thích và giải thích.
+Ưu điểm: Dễ tiếp cận với mọi người. Tiếng Việt thì ai dùng cũng hiểu.
+Nhược điểm: Nhiều nghĩa tiếng Việt không chuyển tải được.
+2. Tiếng Pháp sử dụng để hiển thị nội dung. Tiếng Anh sử dụng để chú thích và giải thích. 
+Ưu điểm: Nhiều người dùng tiếng Anh nên tiếng Anh không phải 1 trở ngại. Chuyển dịch nghĩa từ tiếng Pháp sang Anh dễ hơn từ Anh sang Việt do có rất nhiều người đã chuyển ngữ.
+Nhược điểm: Sẽ có những khái niệm khó để chuyển trọn vẹn. Tôi không quá giỏi tiếng Anh để double check 100%.
+3. Tiếng Pháp sử dụng để hiển thị nội dung. Tiếng Pháp sử dụng để chú thích và giải thích.
+Ưu điểm: đây là cách học CHUẨN khi học ngôn ngữ, tức là tiếp cận ngoại ngữ bằng chính ngoại ngữ đó. Chả cần phải dịch gì.
+Nhược điểm: Khó cho người mới bắt đầu làm quen vì họ sẽ thiếu rất nhiều từ vựng để có thể hiểu được nghĩa. 
+=> Tối ưu sẽ là để cả 3 option và cho người dùng chọn ở setting. 
+________________
+3.2. GIAO DIỆN TỔNG QUAN (UI):
+Copy y như Qwerty Learner. Ta sẽ trao đổi thêm. 
+
+
+IV. THƯ VIỆN
+Vì ngôn ngữ sử dụng để lập trình là Python, do vậy các thư viện sử dụng sẽ là các thư viện Python:
+- Thư viện NLTK 
+- Thư viện tkinter để làm UI
+Tôi không rõ cần thêm các thư viện nào do trước đó đã tự cài nhiều thư viện, nên chúng ta sẽ trao đổi thêm.
+
+
+V. MÔI TRƯỜNG
+- Microsoft 
+- Cân nhắc cả IOS cho Mac - dù tôi nghĩ tỷ lệ dùng Mac không cao lắm đâu, để test trước ta có thể test trên Microsoft.
+- Cân nhắc cả cho Android. 
+- Môi trường website để xem xét sau. 
+
+
+VI. QUY TRÌNH TEST
+Do quy mô nhỏ và có nhiều thay đổi, tính chất khó đoán trước, tôi đề nghị sử dụng mô hình Agile trong kiểm thử để có được sự linh hoạt cần thiết:
+-> Lập kế hoạch -> Phát triển ứng dụng -> Phát triển UI -> Thử nghiệm trên tệp người dùng thử -> Lấy ý kiến -> (lặp lại) Lập kế hoạch
+#
