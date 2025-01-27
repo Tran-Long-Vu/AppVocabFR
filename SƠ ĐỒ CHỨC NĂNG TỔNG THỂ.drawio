@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8" pages="2">
   <diagram name="ALL" id="ZN1mlb7lfTeKt8m_AknO">
-    <mxGraphModel dx="1393" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,15 +46,17 @@
         <mxCell id="XIO0Y5FDvLYj2nLNnGY_-15" value="CƠ CHẾ GÕ CHỮ CÁI TIẾNG PHÁP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="-40" width="720" height="460" as="geometry" />
+        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-40" width="440" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XIO0Y5FDvLYj2nLNnGY_-17">
-          <mxGeometry width="720" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-16" value="HỌC TỪ VỰNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XIO0Y5FDvLYj2nLNnGY_-17">
-          <mxGeometry width="720" height="40" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xxrT2PKjH6neZHoUIXhL" name="Giao diện gõ chữ">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
