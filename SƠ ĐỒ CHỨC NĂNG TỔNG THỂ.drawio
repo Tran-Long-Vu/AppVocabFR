@@ -75,6 +75,12 @@
         <mxCell id="-hiP7BQrN0IpD2RlHJSb-7" value="Note: Hiện tôi đang làm giao diện cho dạng ngôn ngữ Pháp - Việt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214.5" y="525" width="410" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-hiP7BQrN0IpD2RlHJSb-8" target="-hiP7BQrN0IpD2RlHJSb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-8" value="LƯU TRỮ LẠI TÊN NGƯỜI DÙNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
