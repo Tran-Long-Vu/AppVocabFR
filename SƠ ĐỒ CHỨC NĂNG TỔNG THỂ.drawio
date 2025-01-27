@@ -108,7 +108,7 @@
         <mxCell id="-hiP7BQrN0IpD2RlHJSb-5" value="[Người dùng nhập tên]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="260" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-6" value="Connais-tu ?&lt;div&gt;Bạn có biết?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Người Pháp sẽ viết dấu ?, dấu ! và dấu : cách ra một khoảng chứ không viết liền ngay sau chữ cái cuối cùng của từ&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-6" value="Connais-tu ?&lt;div&gt;Bạn có biết?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Người Pháp sẽ viết dấu ?, dấu ! và dấu : cách ra một khoảng chứ không viết liền ngay sau chữ cái cuối cùng của từ.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="403" width="625" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hiP7BQrN0IpD2RlHJSb-7" value="Note: Hiện tôi đang làm giao diện minh họa cho dạng ngôn ngữ Pháp - Việt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
