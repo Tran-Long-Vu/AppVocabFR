@@ -96,31 +96,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="680" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-2" value="Bienvenue à&amp;nbsp;Français Facile !&lt;div&gt;Chào mừng đến với Tiếng Pháp Cực Dễ!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-2" value="Bienvenue à&amp;nbsp;Français Facile !&lt;div&gt;Chào mừng đến với Tiếng Pháp Cực Dễ!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-4" value="Ton nom :&lt;div&gt;Tên của bạn là:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-4" value="Ton nom :&lt;div&gt;Tên của bạn là:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="219" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-5" value="[Người dùng nhập tên]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-5" value="[Người dùng nhập tên]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="260" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-6" value="Connais-tu ?&lt;div&gt;Bạn có biết?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Người Pháp sẽ viết dấu ?, dấu ! và dấu : cách ra một khoảng chứ không viết liền ngay sau chữ cái cuối cùng của từ&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-6" value="Connais-tu ?&lt;div&gt;Bạn có biết?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Người Pháp sẽ viết dấu ?, dấu ! và dấu : cách ra một khoảng chứ không viết liền ngay sau chữ cái cuối cùng của từ&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="403" width="625" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-7" value="Note: Hiện tôi đang làm giao diện minh họa cho dạng ngôn ngữ Pháp - Việt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214.5" y="525" width="410" height="60" as="geometry" />
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-7" value="Note: Hiện tôi đang làm giao diện minh họa cho dạng ngôn ngữ Pháp - Việt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="525" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-hiP7BQrN0IpD2RlHJSb-8" target="-hiP7BQrN0IpD2RlHJSb-4">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-hiP7BQrN0IpD2RlHJSb-8" target="-hiP7BQrN0IpD2RlHJSb-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hiP7BQrN0IpD2RlHJSb-8" value="LƯU TRỮ LẠI TÊN NGƯỜI DÙNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hiP7BQrN0IpD2RlHJSb-8" value="LƯU TRỮ LẠI TÊN NGƯỜI DÙNG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u_0W-KByVZsm0fKi6e11-1" value="Từ sau khi người dùng mở app sẽ không hiện lại phần này nữa, trừ phi người dùng thay đổi trong phần CÀI ĐẶT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u_0W-KByVZsm0fKi6e11-1" value="Từ sau khi người dùng mở app sẽ không hiện lại phần này nữa, trừ phi người dùng thay đổi trong phần CÀI ĐẶT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="270" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
