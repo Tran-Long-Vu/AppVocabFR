@@ -22,9 +22,6 @@
         <mxCell id="XIO0Y5FDvLYj2nLNnGY_-6" value="CƠ CHẾ LỰA CHỌN NHÓM TỪ VỰNG ĐỂ HỌC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-40" width="720" height="460" as="geometry" />
-        </mxCell>
         <mxCell id="XIO0Y5FDvLYj2nLNnGY_-8" value="CƠ CHẾ PHÁT ÂM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +45,15 @@
         </mxCell>
         <mxCell id="XIO0Y5FDvLYj2nLNnGY_-15" value="CƠ CHẾ GÕ CHỮ CÁI TIẾNG PHÁP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="-40" width="720" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XIO0Y5FDvLYj2nLNnGY_-17">
+          <mxGeometry width="720" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="XIO0Y5FDvLYj2nLNnGY_-16" value="HỌC TỪ VỰNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XIO0Y5FDvLYj2nLNnGY_-17">
+          <mxGeometry width="720" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
