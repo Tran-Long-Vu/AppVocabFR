@@ -41,9 +41,9 @@ class TypingPracticeApp:
         display_text = ""
         for i, char in enumerate(self.current_word):
             if i < self.current_index:
-                display_text += f"{char} "  # Ký tự đã gõ đúng hiển thị màu xanh
+                display_text += f"{char}"  # Ký tự đã gõ đúng hiển thị màu xanh
             else:
-                display_text += f"{char} "  # Ký tự chưa gõ hiển thị màu xám
+                display_text += f"{char}"  # Ký tự chưa gõ hiển thị màu xám
         self.word_label.config(text=display_text, fg="gray")
 
     def check_typing(self, event):
