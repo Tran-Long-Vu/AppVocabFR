@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Trang-1" id="qspj4ITc2NhUvVkb_-Wg">
-    <mxGraphModel dx="2220" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U7XDH8MyKb8GMgPuHNvj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U7XDH8MyKb8GMgPuHNvj-1" target="U7XDH8MyKb8GMgPuHNvj-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U7XDH8MyKb8GMgPuHNvj-1" value="APPLICATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-277.5" y="210" width="175" height="100" as="geometry" />
+          <mxGeometry x="-277.5" y="210" width="327.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="U7XDH8MyKb8GMgPuHNvj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7XDH8MyKb8GMgPuHNvj-4" target="U7XDH8MyKb8GMgPuHNvj-5">
           <mxGeometry relative="1" as="geometry" />
@@ -89,6 +86,9 @@
             <mxPoint x="-190" y="40" as="sourcePoint" />
             <mxPoint x="170" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U7XDH8MyKb8GMgPuHNvj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.267;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U7XDH8MyKb8GMgPuHNvj-4" target="U7XDH8MyKb8GMgPuHNvj-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
