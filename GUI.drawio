@@ -58,11 +58,20 @@
         <mxCell id="Px6ZQtfSuF-eLM5xTWZW-12" value="GIỚI THIỆU FOUNDER + APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qmf1X154R4gHD_QGPn2B-1" value="TỪ VỰNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmf1X154R4gHD_QGPn2B-2" value="NGỮ PHÁP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmf1X154R4gHD_QGPn2B-3" value="CHIA ĐỘNG TỪ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Màn hình khởi chạy app" id="bNJ712F2EPSEOsJFF9pg">
-    <mxGraphModel dx="1591" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
