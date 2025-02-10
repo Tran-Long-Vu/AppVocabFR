@@ -22,12 +22,36 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của Giao diện chung" id="qzEDXYYQoyRVROCkS8z_">
-    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Is3KtnW3lMFdNGt9SrXK-0" />
         <mxCell id="Is3KtnW3lMFdNGt9SrXK-1" parent="Is3KtnW3lMFdNGt9SrXK-0" />
         <mxCell id="Is3KtnW3lMFdNGt9SrXK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
-          <mxGeometry x="84" y="80" width="660" height="470" as="geometry" />
+          <mxGeometry x="84" y="80" width="666" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;CHÀO&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="84" y="80" width="666" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-8" value="HƯỚNG DẪN" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="288" y="193" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-10" value="HỌC TỪ VỰNG" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="120" y="313" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-11" value="HỌC NGỮ PHÁP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="460" y="313" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-12" value="HỌC CHIA ĐỘNG TỪ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="120" y="443" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-13" value="LUYỆN TẬP" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="460" y="443" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-14" value="TIẾN TRÌNH" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="120" y="573" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BX9qH2oJ4CTzmUVQPmZT-15" value="VỀ CHÚNG TÔI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+          <mxGeometry x="460" y="573" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
