@@ -729,7 +729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TMZo4OdUAeXOAin23Kqy" name="Luyện tập (2)">
-    <mxGraphModel dx="928" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -780,6 +780,12 @@
         </mxCell>
         <mxCell id="ORwfksVIUgVr30GC-GUU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="ORwfksVIUgVr30GC-GUU-7">
           <mxGeometry width="163" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ORwfksVIUgVr30GC-GUU-8" target="ORwfksVIUgVr30GC-GUU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-8" value="BỎ NÚT TỪ MỚI ĐI VÌ TỪ NÀO CŨNG LÀ TỪ MỚI?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="120" width="180" height="117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
