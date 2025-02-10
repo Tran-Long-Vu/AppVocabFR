@@ -729,18 +729,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TMZo4OdUAeXOAin23Kqy" name="Luyện tập (2)">
-    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n5glOsmaBgazQvcSYi-J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="700" height="520" as="geometry" />
+          <mxGeometry x="80" y="40" width="700" height="530" as="geometry" />
         </mxCell>
         <mxCell id="n5glOsmaBgazQvcSYi-J-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;LUYỆN TẬP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="n5glOsmaBgazQvcSYi-J-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CHÚC MỪNG&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;BẠN ĐÃ&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;HOÀN THÀNH BÀI HỌC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="630" height="350" as="geometry" />
         </mxCell>
         <mxCell id="n5glOsmaBgazQvcSYi-J-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="676" y="40" width="104" height="30" as="geometry" />
@@ -763,8 +760,23 @@
         <mxCell id="n5glOsmaBgazQvcSYi-J-10" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n5glOsmaBgazQvcSYi-J-11" value="TIẾP TỤC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="375" y="515" width="120" height="30" as="geometry" />
+        <mxCell id="ORwfksVIUgVr30GC-GUU-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;TỪ CẦN HỌC (giữa)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[Phiên âm IPA] (giữa)&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Définition: bllabalabllalablâbllabblalabalbalabl (căn lề trái)&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Định nghĩa: blalalabalalalbalalablalalalalalbalalaba (căn lề trái)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Exemple: (căn lề trái)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Ví dụ: (căn lề trái)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Từ loại: n/a | Giống: n/a | Số: n/a (căn lề trái)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="117" y="128" width="630" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-2" value="&amp;nbsp;NGƯỜI DÙNG NHẬP Ở ĐÂY, BẤM ENTER ĐỂ KIỂM TRA" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="117" y="493" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="546" width="633" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="117" y="546" width="163" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-4" value="PHÁT ÂM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="627" y="158" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-5" value="TỪ MỚI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="137" y="158" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
