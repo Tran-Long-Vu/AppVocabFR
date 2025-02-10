@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="16">
   <diagram id="Jml23lRNmiECpl9eb_9k" name="ALL">
     <mxGraphModel dx="1311" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -840,6 +840,14 @@
         <mxCell id="kSWaxikl7Ax_fkbvH3Qh-1" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="385" y="510" width="90" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aFp9yETlm97fjh8TE6XU" name="Tiến trình">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
