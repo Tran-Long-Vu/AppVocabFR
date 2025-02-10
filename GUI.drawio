@@ -807,6 +807,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="700" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;LUYỆN TẬP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="676" y="40" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-4" value="" style="group" vertex="1" connectable="0" parent="Rmsi_wKyPo5DRToj_6Sq-3">
+          <mxGeometry width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rmsi_wKyPo5DRToj_6Sq-4">
+          <mxGeometry width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Rmsi_wKyPo5DRToj_6Sq-4">
+          <mxGeometry x="10" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Rmsi_wKyPo5DRToj_6Sq-4">
+          <mxGeometry x="42" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Rmsi_wKyPo5DRToj_6Sq-4">
+          <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-9" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmsi_wKyPo5DRToj_6Sq-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CHÚC MỪNG&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;BẠN ĐÃ&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HOÀN THÀNH&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PHẦN LUYỆN TẬP HÔM NAY&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="620" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="kSWaxikl7Ax_fkbvH3Qh-1" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="385" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
