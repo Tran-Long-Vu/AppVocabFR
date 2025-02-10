@@ -522,6 +522,9 @@
         <mxCell id="71nChtWKeGr6zgZMRwNd-1" value="HỌC XONG RỒI THÌ CHUYỂN SANG MÀU XANH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-190" y="170" width="140" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="3XcX4fJ5ZphgbfcPYvnh-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;GIAO DIỆN CHỌN BÀI HỌC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="790" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
