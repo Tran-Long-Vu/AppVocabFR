@@ -519,8 +519,8 @@
             <mxPoint x="60" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71nChtWKeGr6zgZMRwNd-1" value="HỌC XONG RỒI THÌ CHUYỂN SANG MÀU XANH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="185" width="120" height="60" as="geometry" />
+        <mxCell id="71nChtWKeGr6zgZMRwNd-1" value="HỌC XONG RỒI THÌ CHUYỂN SANG MÀU XANH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="170" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
