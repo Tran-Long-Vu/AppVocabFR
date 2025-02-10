@@ -138,7 +138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Giao diện chung" id="qzEDXYYQoyRVROCkS8z_">
-    <mxGraphModel dx="1941" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Is3KtnW3lMFdNGt9SrXK-0" />
         <mxCell id="Is3KtnW3lMFdNGt9SrXK-1" parent="Is3KtnW3lMFdNGt9SrXK-0" />
@@ -187,7 +187,7 @@
         <mxCell id="FBnspWf80Yh-RabkBdFi-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="FBnspWf80Yh-RabkBdFi-6" vertex="1">
           <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mgJycZ1Q4NG-KJzL2KLl-0" value="GIAO DIỆN MENU CHUNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
+        <mxCell id="mgJycZ1Q4NG-KJzL2KLl-0" value="GIAO DIỆN MENU CHUNG" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Is3KtnW3lMFdNGt9SrXK-1">
           <mxGeometry x="-140" y="233" width="160" height="177" as="geometry" />
         </mxCell>
       </root>
@@ -322,8 +322,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="olmqXQ0vHsHsiSIYcJ2o" name="Trang-7">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="olmqXQ0vHsHsiSIYcJ2o" name="Học từ vựng (1)">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
