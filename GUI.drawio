@@ -787,6 +787,12 @@
         <mxCell id="ORwfksVIUgVr30GC-GUU-8" value="BỎ NÚT TỪ MỚI ĐI VÌ TỪ NÀO CŨNG LÀ TỪ MỚI?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="120" width="180" height="117" as="geometry" />
         </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ORwfksVIUgVr30GC-GUU-10" target="ORwfksVIUgVr30GC-GUU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORwfksVIUgVr30GC-GUU-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;TỪ NÀO HỌC XONG THÌ BIẾN MẤT, SẼ XUẤT HIỆN LẠI SAU 1 KHOÀNG THỜI GIAN: 1 NGÀY, 2 NGÀY, 4 NGÀY, 1 TUẦN, 2 TUẦN, 1 THÁNG, 3 THÁNG, 6 THÁNG - SAU 6 THÁNG THÌ BIẾN MẤT HOÀN TOÀN KHỎI BỂ TỪ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="360" width="230" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
