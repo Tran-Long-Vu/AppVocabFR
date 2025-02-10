@@ -160,16 +160,16 @@
         <mxCell id="mbb6iTp-HxQULxUqgYxn-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-5">
           <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-0" value="CÓ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
+        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-0" value="CÓ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
           <mxGeometry x="220" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-1" value="KHÔNG" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
+        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-1" value="KHÔNG" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
           <mxGeometry x="510" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-2" value="MỞ GIAO DIỆN MENU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
+        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-2" value="MỞ GIAO DIỆN MENU" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
           <mxGeometry x="495" y="555" width="150" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-3" value="TIẾP TỤC PHẦN ĐANG HỌC DỞ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
+        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-3" value="TIẾP TỤC PHẦN ĐANG HỌC DỞ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
           <mxGeometry x="205" y="555" width="150" height="95" as="geometry" />
         </mxCell>
         <mxCell id="59ttdO4uvX9eVi3dHnKZ-0" value="NẾU TRƯỚC ĐÓ ĐANG HỌC DỞ MÀ ĐÓNG ỨNG DỤNG&lt;div&gt;(ĐANG Ở TRONG 1 PHẦN BÀI HỌC MÀ TẮT ỨNG DỤNG)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
