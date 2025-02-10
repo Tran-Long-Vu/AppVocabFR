@@ -881,6 +881,9 @@
         <mxCell id="Ux0Brd8GjXk70Q_Yxstu-11" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="385" y="510" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mm5lCdjTNaFOk31HE5WI-1" value="BIỂU ĐỒ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="290" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
