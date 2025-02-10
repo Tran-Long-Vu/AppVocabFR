@@ -15,8 +15,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i891yApTalWDL6wZKGM_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="80" width="660" height="470" as="geometry" />
+        <mxCell id="i891yApTalWDL6wZKGM_-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Ton nom et prénom ?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Họ và tên của bạn?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="40" width="660" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="usJA5Q9F8z3hBBiqbTUl-1" value="Chu Minh Hiếu" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="610" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
