@@ -608,7 +608,7 @@
           <mxGeometry x="120" y="558" width="630" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rCRelzAuTM88KBhDE_b6-14" value="THANH TIẾN ĐỘ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rCRelzAuTM88KBhDE_b6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rCRelzAuTM88KBhDE_b6-14" target="rCRelzAuTM88KBhDE_b6-1">
           <mxGeometry relative="1" as="geometry" />
