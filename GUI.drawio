@@ -672,6 +672,12 @@
         <mxCell id="MSsCoDxgL0-BaaVnXXj8-11" value="TIẾP TỤC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="375" y="515" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1kBd3Os24KU5L60sTOkh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1kBd3Os24KU5L60sTOkh-1" target="MSsCoDxgL0-BaaVnXXj8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kBd3Os24KU5L60sTOkh-1" value="TRỞ VỀ MENU CHỌN BÀI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="620" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
