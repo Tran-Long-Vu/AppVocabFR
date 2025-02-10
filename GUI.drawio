@@ -572,7 +572,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rCRelzAuTM88KBhDE_b6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="700" height="520" as="geometry" />
+          <mxGeometry x="80" y="40" width="700" height="540" as="geometry" />
         </mxCell>
         <mxCell id="rCRelzAuTM88KBhDE_b6-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;HỌC TỪ VỰNG&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bài 01 - Chủ đề A&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
@@ -603,6 +603,15 @@
         </mxCell>
         <mxCell id="rCRelzAuTM88KBhDE_b6-12" value="&amp;nbsp;NGƯỜI DÙNG NHẬP Ở ĐÂY, BẤM ENTER ĐỂ KIỂM TRA" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="120" y="505" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rCRelzAuTM88KBhDE_b6-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="120" y="558" width="630" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rCRelzAuTM88KBhDE_b6-14" value="THANH TIẾN ĐỘ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCRelzAuTM88KBhDE_b6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rCRelzAuTM88KBhDE_b6-14" target="rCRelzAuTM88KBhDE_b6-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
