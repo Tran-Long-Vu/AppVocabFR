@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="12">
   <diagram id="Jml23lRNmiECpl9eb_9k" name="ALL">
     <mxGraphModel dx="1311" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
         <mxCell id="F_7T5Lw6hvZqEb7cM4mR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="700" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="F_7T5Lw6hvZqEb7cM4mR-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;HỌC TỪ VỰNG&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F_7T5Lw6hvZqEb7cM4mR-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;HỌC TỪ VỰNG&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bài 01 - Chủ đề A&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F_7T5Lw6hvZqEb7cM4mR-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NỘI DUNG BÀI HỌC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -630,6 +630,47 @@
         </mxCell>
         <mxCell id="rCRelzAuTM88KBhDE_b6-21" value="NẾU ĐÃ BIẾT TỪ NÀY RỒI THÌ BẤM VÀO ĐÂY ĐỂ SKIP, TỪ NÀY SẼ ĐƯỢC TỰ ĐỘNG CHUYỂN TỚI BỂ TỪ LUYỆN TẬP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="110" width="200" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FG0ydQkug4-Od8gFkF0c" name="Học từ vựng (4)">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="700" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;HỌC TỪ VỰNG&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bài 01 - Chủ đề A&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CHÚC MỪNG&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;BẠN ĐÃ&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;HOÀN THÀNH BÀI HỌC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="630" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="676" y="40" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-5" value="" style="group" vertex="1" connectable="0" parent="MSsCoDxgL0-BaaVnXXj8-4">
+          <mxGeometry width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MSsCoDxgL0-BaaVnXXj8-5">
+          <mxGeometry width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MSsCoDxgL0-BaaVnXXj8-5">
+          <mxGeometry x="10" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MSsCoDxgL0-BaaVnXXj8-5">
+          <mxGeometry x="42" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MSsCoDxgL0-BaaVnXXj8-5">
+          <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-10" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-11" value="TIẾP TỤC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="375" y="515" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
