@@ -284,7 +284,7 @@
           <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1tZqiUO_sUsrEI2b6byG-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HOÀN THÀNH&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1tZqiUO_sUsrEI2b6byG-1">
-          <mxGeometry x="120" y="150" width="620" height="380" as="geometry" />
+          <mxGeometry x="120" y="150" width="620" height="340" as="geometry" />
         </mxCell>
         <mxCell id="1tZqiUO_sUsrEI2b6byG-6" value="" style="group" vertex="1" connectable="0" parent="1tZqiUO_sUsrEI2b6byG-1">
           <mxGeometry x="676" y="40" width="104" height="30" as="geometry" />
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="1tZqiUO_sUsrEI2b6byG-13" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1tZqiUO_sUsrEI2b6byG-1">
           <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riYaQWilgIze0ipZaxGB-0" value="Đồng ý" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1tZqiUO_sUsrEI2b6byG-1">
+          <mxGeometry x="370" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
