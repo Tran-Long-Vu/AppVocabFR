@@ -428,7 +428,7 @@
         <mxCell id="Q4q4KqMxNJiEPi9qnsZH-1" value="Bài 1&lt;div&gt;Chủ đề A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="90" y="190" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q4q4KqMxNJiEPi9qnsZH-2" value="Bài 2&lt;div&gt;Chủ đề B&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q4q4KqMxNJiEPi9qnsZH-2" value="Bài 2&lt;div&gt;Chủ đề B&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q4q4KqMxNJiEPi9qnsZH-3" value="Bài 3&lt;div&gt;Chủ đề C&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
