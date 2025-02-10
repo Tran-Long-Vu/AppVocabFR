@@ -166,6 +166,12 @@
         <mxCell id="G8SB1Q7JHAOTImT4-Jbe-1" value="KHÔNG" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
           <mxGeometry x="510" y="420" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-2" value="MỞ GIAO DIỆN MENU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
+          <mxGeometry x="495" y="555" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="G8SB1Q7JHAOTImT4-Jbe-3" value="TIẾP TỤC PHẦN ĐANG HỌC DỞ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mbb6iTp-HxQULxUqgYxn-1">
+          <mxGeometry x="205" y="555" width="150" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
