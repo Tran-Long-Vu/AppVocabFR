@@ -557,7 +557,7 @@
         <mxCell id="F_7T5Lw6hvZqEb7cM4mR-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="F_7T5Lw6hvZqEb7cM4mR-5">
           <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F_7T5Lw6hvZqEb7cM4mR-10" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="F_7T5Lw6hvZqEb7cM4mR-10" value="CHỌN BÀI HỌC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_7T5Lw6hvZqEb7cM4mR-11" value="TIẾP TỤC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
@@ -598,7 +598,7 @@
         <mxCell id="rCRelzAuTM88KBhDE_b6-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="rCRelzAuTM88KBhDE_b6-5">
           <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rCRelzAuTM88KBhDE_b6-10" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="rCRelzAuTM88KBhDE_b6-10" value="CHỌN BÀI HỌC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rCRelzAuTM88KBhDE_b6-12" value="&amp;nbsp;NGƯỜI DÙNG NHẬP Ở ĐÂY, BẤM ENTER ĐỂ KIỂM TRA" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -635,7 +635,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FG0ydQkug4-Od8gFkF0c" name="Học từ vựng (4)">
-    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -666,7 +666,7 @@
         <mxCell id="MSsCoDxgL0-BaaVnXXj8-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MSsCoDxgL0-BaaVnXXj8-5">
           <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MSsCoDxgL0-BaaVnXXj8-10" value="MENU" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="MSsCoDxgL0-BaaVnXXj8-10" value="CHỌN BÀI HỌC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="65" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MSsCoDxgL0-BaaVnXXj8-11" value="TIẾP TỤC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
