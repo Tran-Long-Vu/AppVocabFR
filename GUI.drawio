@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="17">
   <diagram id="Jml23lRNmiECpl9eb_9k" name="ALL">
     <mxGraphModel dx="1591" dy="2026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -568,6 +568,44 @@
         </mxCell>
         <mxCell id="F_7T5Lw6hvZqEb7cM4mR-11" value="TIẾP TỤC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="375" y="515" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZUGBrinD5iyUxcYlaRH-" name="Cảnh báo">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;XÁC NHẬN THOÁT&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;QUÁ TRÌNH HỌC HIỆN TẠI CỦA BẠN SẼ KHÔNG ĐƯỢC LƯU&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="700" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;HỌC TỪ VỰNG&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Bài 01 - Chủ đề A&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="700" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="676" y="40" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-5" value="" style="group" vertex="1" connectable="0" parent="qTMixV1RcIhLHjLJY0VA-4">
+          <mxGeometry width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qTMixV1RcIhLHjLJY0VA-5">
+          <mxGeometry width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qTMixV1RcIhLHjLJY0VA-5">
+          <mxGeometry x="10" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qTMixV1RcIhLHjLJY0VA-5">
+          <mxGeometry x="42" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qTMixV1RcIhLHjLJY0VA-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qTMixV1RcIhLHjLJY0VA-5">
+          <mxGeometry x="74" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldpz-AH3g0jxKafMNWdr-1" value="ĐỒNG Ý" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldpz-AH3g0jxKafMNWdr-2" value="KHÔNG" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
