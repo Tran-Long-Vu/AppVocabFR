@@ -1,0 +1,822 @@
+[
+    [
+        {
+            "word": "Bonjour, comment ça va ?",
+            "ipa": "[bɔ̃ʒuʁ kɔmɑ̃ sa va]",
+            "definition": "Xin chào, bạn khỏe không?",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Salut, ça va ?",
+            "ipa": "[saly sa va]",
+            "definition": "Chào, khỏe không?",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Bonsoir, comment allez-vous ?",
+            "ipa": "[bɔ̃swaʁ kɔmɑ̃ tale vu]",
+            "definition": "Chào buổi tối, quý vị khỏe không?",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Bonne journée",
+            "ipa": "[bɔn ʒuʁne]",
+            "definition": "Chúc một ngày tốt lành",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Bonne soirée",
+            "ipa": "[bɔn swaʁe]",
+            "definition": "Chúc buổi tối tốt lành",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "À bientôt",
+            "ipa": "[a bjɛ̃to]",
+            "definition": "Hẹn gặp lại",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Au revoir",
+            "ipa": "[o ʁəvwaʁ]",
+            "definition": "Tạm biệt",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Enchanté de vous rencontrer",
+            "ipa": "[ɑ̃ʃɑ̃te də vu ʁɑ̃kɔ̃tʁe]",
+            "definition": "Rất vui được gặp bạn",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Bienvenue",
+            "ipa": "[bjɛ̃vny]",
+            "definition": "Chào mừng",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "À tout à l'heure",
+            "ipa": "[a tu ta lœʁ]",
+            "definition": "Hẹn gặp lại sau",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        }
+    ],
+    [
+        {
+            "word": "Pain frais",
+            "ipa": "[pɛ̃ fʁɛ]",
+            "definition": "Bánh mì tươi",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Fromage de chèvre",
+            "ipa": "[fʁɔmaʒ də ʃɛvʁ]",
+            "definition": "Phô mai dê",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Vin rouge",
+            "ipa": "[vɛ̃ ʁuʒ]",
+            "definition": "Rượu vang đỏ",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Eau minérale",
+            "ipa": "[o mineʁal]",
+            "definition": "Nước khoáng",
+            "pos": "phrase",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Fruits frais",
+            "ipa": "[fʁɥi fʁɛ]",
+            "definition": "Trái cây tươi",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "plural"
+        },
+        {
+            "word": "Légumes verts",
+            "ipa": "[leɡym vɛʁ]",
+            "definition": "Rau xanh",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "plural"
+        },
+        {
+            "word": "Bœuf bourguignon",
+            "ipa": "[bœf buʁɡiɲɔ̃]",
+            "definition": "Thịt bò hầm vang",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Poulet rôti",
+            "ipa": "[pule ʁo.ti]",
+            "definition": "Gà quay",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Crème brûlée",
+            "ipa": "[kʁɛm bʁyle]",
+            "definition": "Kem caramen",
+            "pos": "phrase",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Café au lait",
+            "ipa": "[kafe o lɛ]",
+            "definition": "Cà phê sữa",
+            "pos": "phrase",
+            "gender": "masculine",
+            "number": "singular"
+        }
+    ],
+    [
+        {
+            "word": "S'il vous plaît",
+            "ipa": "[sil vu plɛ]",
+            "definition": "Làm ơn",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Merci beaucoup",
+            "ipa": "[mɛʁsi boku]",
+            "definition": "Cảm ơn rất nhiều",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "De rien",
+            "ipa": "[də ʁjɛ̃]",
+            "definition": "Không có gì",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Excusez-moi",
+            "ipa": "[ɛkskyze mwa]",
+            "definition": "Xin lỗi",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Je ne sais pas",
+            "ipa": "[ʒə nə sɛ pa]",
+            "definition": "Tôi không biết",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Comment ça s'appelle ?",
+            "ipa": "[kɔmɑ̃ sa sapɛl]",
+            "definition": "Tên bạn là gì?",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Enchanté de vous rencontrer",
+            "ipa": "[ɑ̃ʃɑ̃te də fɛʁ vɔtʁ kɔnɛsɑ̃s]",
+            "definition": "Rất vui được gặp bạn",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Pardon, répétez s'il vous plaît",
+            "ipa": "[paʁdɔ̃ ʁepete sil vu plɛ]",
+            "definition": "Xin lỗi, nhắc lại được không?",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Je suis désolé",
+            "ipa": "[ʒə sɥi dezɔle]",
+            "definition": "Tôi xin lỗi",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "C'est très intéressant",
+            "ipa": "[se tʁɛ ɛ̃teʁɛsɑ̃]",
+            "definition": "Thật thú vị",
+            "pos": "phrase",
+            "gender": "n/a",
+            "number": "n/a"
+        }
+    ],
+    [
+        {
+            "word": "La mère",
+            "ipa": "[la mɛʁ]",
+            "definition": "Mẹ",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le père",
+            "ipa": "[lə pɛʁ]",
+            "definition": "Bố",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La sœur",
+            "ipa": "[la sœʁ]",
+            "definition": "Chị/em gái",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le frère",
+            "ipa": "[lə fʁɛʁ]",
+            "definition": "Anh/em trai",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La famille",
+            "ipa": "[la famij]",
+            "definition": "Gia đình",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Les enfants",
+            "ipa": "[le zɑ̃fɑ̃]",
+            "definition": "Trẻ em",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "plural"
+        },
+        {
+            "word": "La grand-mère",
+            "ipa": "[la ɡʁɑ̃ mɛʁ]",
+            "definition": "Bà",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le grand-père",
+            "ipa": "[lə ɡʁɑ̃ pɛʁ]",
+            "definition": "Ông",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Le cousin",
+            "ipa": "[lə kuzɛ̃]",
+            "definition": "Anh em họ (nam)",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La cousine",
+            "ipa": "[la kuzin]",
+            "definition": "Anh em họ (nữ)",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        }
+    ],
+    [
+        {
+            "word": "Le soleil",
+            "ipa": "[lə sɔlɛj]",
+            "definition": "Mặt trời",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La pluie",
+            "ipa": "[la plɥi]",
+            "definition": "Mưa",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le vent",
+            "ipa": "[lə vɑ̃]",
+            "definition": "Gió",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La neige",
+            "ipa": "[la nɛʒ]",
+            "definition": "Tuyết",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le nuage",
+            "ipa": "[lə nɥaʒ]",
+            "definition": "Mây",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "L'orage",
+            "ipa": "[lɔʁaʒ]",
+            "definition": "Bão",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Le brouillard",
+            "ipa": "[lə bʁujaʁ]",
+            "definition": "Sương mù",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La tempête",
+            "ipa": "[la tɑ̃pɛt]",
+            "definition": "Bão tố",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le tonnerre",
+            "ipa": "[lə tɔnɛʁ]",
+            "definition": "Sấm sét",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "L'éclair",
+            "ipa": "[lek.lɛʁ]",
+            "definition": "Chớp",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        }
+    ],
+    [
+        {
+            "word": "Un",
+            "ipa": "[œ̃]",
+            "definition": "Một",
+            "pos": "number",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Deux",
+            "ipa": "[dø]",
+            "definition": "Hai",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Trois",
+            "ipa": "[tʁwa]",
+            "definition": "Ba",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Quatre",
+            "ipa": "[katʁ]",
+            "definition": "Bốn",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Cinq",
+            "ipa": "[sɛ̃k]",
+            "definition": "Năm",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Six",
+            "ipa": "[sis]",
+            "definition": "Sáu",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Sept",
+            "ipa": "[sɛt]",
+            "definition": "Bảy",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Huit",
+            "ipa": "[ɥit]",
+            "definition": "Tám",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Neuf",
+            "ipa": "[nœf]",
+            "definition": "Chín",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Dix",
+            "ipa": "[dis]",
+            "definition": "Mười",
+            "pos": "number",
+            "gender": "n/a",
+            "number": "n/a"
+        }
+    ],
+    [
+        {
+            "word": "Rouge",
+            "ipa": "[ʁuʒ]",
+            "definition": "Đỏ",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Bleu",
+            "ipa": "[blø]",
+            "definition": "Xanh dương",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Jaune",
+            "ipa": "[ʒon]",
+            "definition": "Vàng",
+            "pos": "adjective",
+            "gender": "n/a",
+            "number": "n/a"
+        },
+        {
+            "word": "Vert",
+            "ipa": "[vɛʁ]",
+            "definition": "Xanh lá",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Noir",
+            "ipa": "[nwaʁ]",
+            "definition": "Đen",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Blanc",
+            "ipa": "[blɑ̃]",
+            "definition": "Trắng",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Rose",
+            "ipa": "[ʁoz]",
+            "definition": "Hồng",
+            "pos": "adjective",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Violet",
+            "ipa": "[vjo.lɛ]",
+            "definition": "Tím",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Gris",
+            "ipa": "[ɡʁi]",
+            "definition": "Xám",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Marron",
+            "ipa": "[ma.ʁɔ̃]",
+            "definition": "Nâu",
+            "pos": "adjective",
+            "gender": "masculine",
+            "number": "singular"
+        }
+    ],
+    [
+        {
+            "word": "La chemise",
+            "ipa": "[la ʃə.miz]",
+            "definition": "Áo sơ mi",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le pantalon",
+            "ipa": "[lə pɑ̃.ta.lɔ̃]",
+            "definition": "Quần dài",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La robe",
+            "ipa": "[la ʁɔb]",
+            "definition": "Váy",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le costume",
+            "ipa": "[lə kɔs.tym]",
+            "definition": "Bộ vest",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La jupe",
+            "ipa": "[la ʒyp]",
+            "definition": "Chân váy",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Les chaussures",
+            "ipa": "[le ʃo.syʁ]",
+            "definition": "Giày dép",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "plural"
+        },
+        {
+            "word": "Le manteau",
+            "ipa": "[lə mɑ̃.to]",
+            "definition": "Áo khoác",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La casquette",
+            "ipa": "[la kas.kɛt]",
+            "definition": "Mũ lưỡi trai",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Les chaussettes",
+            "ipa": "[le ʃo.sɛt]",
+            "definition": "Tất",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "plural"
+        },
+        {
+            "word": "Les lunettes",
+            "ipa": "[le lynɛt]",
+            "definition": "Kính mắt",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "plural"
+        }
+    ],
+    [
+        {
+            "word": "La tête",
+            "ipa": "[la tɛt]",
+            "definition": "Đầu",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le bras",
+            "ipa": "[lə bʁɑ]",
+            "definition": "Cánh tay",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La main",
+            "ipa": "[la mɛ̃]",
+            "definition": "Bàn tay",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le pied",
+            "ipa": "[lə pje]",
+            "definition": "Bàn chân",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Le cœur",
+            "ipa": "[lə kœʁ]",
+            "definition": "Trái tim",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "L'œil",
+            "ipa": "[l‿œj]",
+            "definition": "Mắt",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La bouche",
+            "ipa": "[la buʃ]",
+            "definition": "Miệng",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le nez",
+            "ipa": "[lə ne]",
+            "definition": "Mũi",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Les oreilles",
+            "ipa": "[le.z‿ɔ.ʁɛl]",
+            "definition": "Tai",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "plural"
+        },
+        {
+            "word": "Le dos",
+            "ipa": "[lə dɔs]",
+            "definition": "Lưng",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        }
+    ],
+    [
+        {
+            "word": "L'aéroport",
+            "ipa": "[l‿ɛ.ʁo.pɔʁ]",
+            "definition": "Sân bay",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Le billet",
+            "ipa": "[lə bijɛ]",
+            "definition": "Vé máy bay",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La valise",
+            "ipa": "[la va.liz]",
+            "definition": "Hành lý",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "La réservation",
+            "ipa": "[la ʁe.zɛʁ.va.sjɔ̃]",
+            "definition": "Đặt phòng/đặt chỗ",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le passeport",
+            "ipa": "[lə pas.pɔʁ]",
+            "definition": "Hộ chiếu",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La carte",
+            "ipa": "[la kaʁt]",
+            "definition": "Bản đồ",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        },
+        {
+            "word": "Le taxi",
+            "ipa": "[lə taksi]",
+            "definition": "Xe taxi",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "L'hôtel",
+            "ipa": "[l‿o.tɛl]",
+            "definition": "Khách sạn",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "Le voyage",
+            "ipa": "[lə vwa.jaʒ]",
+            "definition": "Chuyến du lịch",
+            "pos": "noun",
+            "gender": "masculine",
+            "number": "singular"
+        },
+        {
+            "word": "La gare",
+            "ipa": "[la ɡaʁ]",
+            "definition": "Ga tàu",
+            "pos": "noun",
+            "gender": "feminine",
+            "number": "singular"
+        }
+    ]
+]
